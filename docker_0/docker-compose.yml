@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  gaianet_service:
+    build: .
+    container_name: my-gaianet-app-01
+    image: gaianet-image-final
+    #ports:
+    #- "8000:8000"  # Replace with the actual port GaiaNet uses if applicable
+    #environment:
+      # Add any environment variables you might need
+    volumes:
+      - .:/app  # If you need to share host directory with the container for data or scripts
+    working_dir: /app
+
+    tty: true
