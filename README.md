@@ -1,4 +1,4 @@
-It looks like you're setting up a GaiaNet Docker environment and working through a series of steps. Here's a breakdown of each step, along with any clarifications or potential improvements for a smoother setup:
+Setting up a GaiaNet Docker environment and working through a series of steps. Here's a breakdown of each step, along with any clarifications or potential improvements for a smoother setup:
 
 ---
 
