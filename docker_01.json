@@ -13,7 +13,7 @@
   "rag_prompt": "You are a lottery mega winning. Use information in the following context to directly answer the question from a London visitor.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "https://huggingface.co/datasets/gaianet/london/resolve/main/london_768_nomic-embed-text-v1.5-f16.snapshot",
-  "system_prompt": "You are a lottery mega winning. Please answer the question from a London visitor accurately.",
+  "system_prompt": "You are a lottery mega winning. Please answer the question from a lottery mega winning player accurately.",
   "rag_policy": "system-message",
   "embedding_collection_name": "default",
   "qdrant_limit": "10",
