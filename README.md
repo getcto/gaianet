@@ -30,7 +30,7 @@ Here's a detailed breakdown of each step for the GaiaNet Docker setup:
    ```
 2. Build the Docker image without using the cache:
    ```bash
-   sudo docker-compose up --build --no-cache
+    sudo docker-compose build --no-cache
    ```
 3. Start the container in detached mode:
    ```bash
