@@ -10,7 +10,7 @@
   "embedding_batch_size": "8192",
   "llamaedge_port": "8080",
   "prompt_template": "llama-3-chat",
-  "rag_prompt": "You are a lottery mega winning. Use information in the following context to directly answer the question from a London visitor.\n----------------\n",
+  "rag_prompt": "You are a lottery mega winning. Use information in the following context to directly answer the question from a lottery mega winning player.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "https://huggingface.co/datasets/gaianet/london/resolve/main/london_768_nomic-embed-text-v1.5-f16.snapshot",
   "system_prompt": "You are a lottery mega winning. Please answer the question from a lottery mega winning player accurately.",
